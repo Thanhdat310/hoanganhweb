@@ -226,6 +226,126 @@ figcaption{
     width: 255px;
     height: 190px;
 }
+.btN{
+    background-color:rgba(255, 146, 4, 0.911) ;
+    padding: 15px;
+    border-radius: 16px;
+    box-shadow: 0px 3px 5px 0px rgb(138, 133, 133);
+    color: white;
+    margin-left: 600px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div{
+    background-image: url(images/product_13.jpg);
+    margin-top: 50px;
+    padding: 60px;
+}
+.noidung{
+    color: rgba(196, 9, 243, 0.753);
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.image-1 img{
+    width: 250px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.image-2 img{
+    width: 408px;
+    height: 100px;
+    float: right;
+    margin-top: -125px;
+    margin-right: 50px;
+}
+.part{
+    background-color: #081726;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    padding: 50px;
+}
+.khach h1, .da h1, .nvien h1{
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.khach p, .da p, .nvien p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tt h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.tt p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part-2{
+    margin-top: 30px;
+    padding: 20px;
+}
+.im{
+    text-decoration: none;
+    color: gray;
+}
+.im img{
+    width: 100px;
+    height: 100px;
+}
+.im h3{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.im p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ab4{
+    padding: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.ab5{
+    margin-left: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.footer{
+    padding: 50px;
+    background-color: #081726;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-2{
+    color: white;
+    text-align: center;
+    background-color: #081726;
+}
+.footer-2 p{
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nd h3{
+    color: #ffb716;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nd p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nd img{
+    width: 18px;
+}
+
 
 
 
